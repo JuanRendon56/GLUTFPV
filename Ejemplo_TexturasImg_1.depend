@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1617731782 source:d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\ejemplo_texturasimg_1\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
+1426378528 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426378528 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1621889584 source:d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\ejemplo_texturasimg_no\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"RgbImage.h"
+
+1604963029 d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\ejemplo_texturasimg_no\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1618332885 source:d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\ejemplo_texturasimg_no\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1618332885 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\ejemplo_texturascubo3d\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1604963029 d:\itesm\graficas comp\presentaciones\opengl\13 texturización\ejemplo_texturascubo3d\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1621889739 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\ejemplo_texturascubo3d\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"RgbImage.h"
+
+1623269829 source:c:\users\juanm\downloads\13 ejemplo_texturascubo3d\ejemplo_texturascubo3d\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"RgbImage.h"
+
+1604963029 c:\users\juanm\downloads\13 ejemplo_texturascubo3d\ejemplo_texturascubo3d\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1618332885 source:c:\users\juanm\downloads\13 ejemplo_texturascubo3d\ejemplo_texturascubo3d\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1623391362 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	"RgbImage.h"
+	"Personaje.h"
+	"Operador.h"
+	"Objeto.h"
+
+1604963029 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1618332885 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1623373765 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\src\personaje.cpp
+	"Personaje.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<tuple>
+
+1623373689 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\include\personaje.h
+	<tuple>
+
+1623374296 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\src\operador.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Operador.h"
+	"math.h"
+
+1623374307 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\include\operador.h
+	<stack>
+
+1623376085 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\src\punto.cpp
+	"Punto.h"
+	<stdio.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1623376070 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\include\punto.h
+	"Operador.h"
+
+1623374296 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\operador.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<stdlib.h>
+	"Operador.h"
+	"math.h"
+
+1623374307 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\operador.h
+	<stack>
+
+1623373765 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\personaje.cpp
+	"Personaje.h"
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<tuple>
+
+1623373689 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\personaje.h
+	<tuple>
+
+1623376085 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\punto.cpp
+	"Punto.h"
+	<stdio.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1623376070 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\punto.h
+	"Operador.h"
+
+1623388934 source:c:\users\juanm\documents\tec2021\graficas comp\entregafinal\objeto.cpp
+	"Objeto.h"
+	"RgbImage.h"
+	<stdio.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1623388934 c:\users\juanm\documents\tec2021\graficas comp\entregafinal\objeto.h
+	"Punto.h"
+	"Operador.h"
+
